@@ -14,3 +14,4 @@ You can run the app using liveserver or open the index.html file with a browser.
 
 ### Delete a todo
 ![alt text](<Screenshot from 2024-08-03 21-33-42.png>)
+![alt text](<Screenshot from 2024-08-03 21-33-50.png>)
